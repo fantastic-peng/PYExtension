@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PYExtension_Tests' do
+  pod 'PYExtension', :path => '../'
+  
+  
+end
