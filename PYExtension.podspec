@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PYExtension'
-  s.version          = '0.1.0'
+  s.version          = '1.0.2'
   s.summary          = '通用分类'
 
   s.description      = <<-DESC
